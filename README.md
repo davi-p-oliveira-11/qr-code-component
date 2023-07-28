@@ -8,4 +8,4 @@ https://cute-eclair-4a7fea.netlify.app/
 <img src="/screenshots/desktop-screenshot.JPG" alt="Desktop design"/>
 
 <h3>Mobile preview: </h3>
-<img src="/screenshots/mobile-preview.JPG" alt="Mobile design"/>
+<img src="/screenshots/mobile-screenshot.JPG" alt="Mobile design"/>
